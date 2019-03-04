@@ -22,5 +22,8 @@ public class MainActivity extends AppCompatActivity {
     public void openRegister(View view) {
         Intent registerIntent = new Intent(MainActivity.this, RegisterActivity.class);
         startActivity(registerIntent);
+
+        String test = "test";
+        String test2 = "t2";
     }
 }

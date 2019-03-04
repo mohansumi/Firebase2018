@@ -25,5 +25,7 @@ public class MainActivity extends AppCompatActivity {
 
         String test = "test";
         String test2 = "t2";
+
+        boolean istrue = false;
     }
 }
